@@ -6,7 +6,7 @@
 /*   By: adam <adam@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/12/26 13:59:51 by adam              #+#    #+#             */
-/*   Updated: 2025/12/26 14:24:51 by adam             ###   ########.fr       */
+/*   Updated: 2025/12/26 15:59:31 by adam             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,6 +60,7 @@ char	*ft_itoa(int nbr)
 	return (str);
 }
 
+/*
 int	main(void)
 {
 	printf("%s\n", ft_itoa(1));
@@ -69,5 +70,5 @@ int	main(void)
 	printf("%s\n", ft_itoa(100));
 	printf("%s\n", ft_itoa(-20));
 	printf("%s\n", ft_itoa(-2147483648));
-
 }
+*/
